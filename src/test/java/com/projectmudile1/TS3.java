@@ -7,5 +7,6 @@ public class TS3 {
 public void ts3()
 {
 	System.out.println("demo 1");
+	System.out.println("chances by susee");
 }
 }
