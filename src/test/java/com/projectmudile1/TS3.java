@@ -10,5 +10,6 @@ public void ts3()
 	System.out.println("chances by susee");
 	System.out.println("chances 2  by susee");
 	System.out.println("chances 3  by susee");
+	System.out.println("chances 2  by susee");
 }
 }
